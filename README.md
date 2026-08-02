@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # JavaPracticeProblems
 This repo contains practice question of JAVA.
 =======
@@ -10,7 +10,7 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 
 The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
+- `src`: the folder to maintain sources and the java practice questions
 - `lib`: the folder to maintain dependencies
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
